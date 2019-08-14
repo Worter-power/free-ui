@@ -1,0 +1,19 @@
+{
+  "name": "free-ui",
+  "version": "1.0.0",
+  "description": "Responsive Component Library",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Worter-power/free-ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Worter-power/free-ui/issues"
+  },
+  "homepage": "https://github.com/Worter-power/free-ui#readme"
+}
